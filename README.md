@@ -1,4 +1,5 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gravity10" />
+<img style="display:inline" src="https://github-readme-stats.vercel.app/api/?username=Gravity10" />
 
 ### Hi there 👋
 
