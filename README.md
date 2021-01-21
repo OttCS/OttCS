@@ -7,7 +7,7 @@
 
 <p>Open GLSL shaderpack for Optifine-modded Minecraft, tuned to be as lightweight and efficient as possible to keep up with multiplayer servers. Check it out <a href="https://gravityshade.netlify.app">here</a>!</p>
 
-<img src="https://gravityshade.netlify.app/0.png" />
+<img src="https://gravityshade.netlify.app/day.png" />
 
 <!--Next Section-->
 
