@@ -7,7 +7,7 @@
 
 <p><a href="https://brash.netlify.app/site.html#home" target="_blank">Main site</a> | <a href="https://brash.netlify.app/site.html#download" target="_blank">Downloads</a> | <a href="https://github.com/Gravity10/BrashArtStudio">Github Repo</a></p>
 
-<p>Open GLSL shaderpack for Optifine or IRIS modded Minecraft, tuned to be as lightweight and efficient as possible to keep up with multiplayer servers. Check it out <a href="https://gravityshade.netlify.app">here</a>!</p>
+<p>HTML/JS art program, made to be performant and accessible. Check it out <a href="https://brash.netlify.app/site.html#home">here</a>!</p>
 
 <!-- Next Section -->
 
