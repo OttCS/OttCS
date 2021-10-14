@@ -1,5 +1,5 @@
 <h1>Hello!</h1>
-<p>Welcome to my Github page! I'm a big fan of web design, game development, and photography. Fluent in HTML/CSS/Javascript, and improving my skills in Java and OpenGL</p>
+<p>Welcome to my Github page! I'm a big fan of web design, game development, and digital art/photography. Fluent in HTML/CSS/Javascript, and improving my skills in Java and OpenGL</p>
 
 <!-- Next Section -->
 
