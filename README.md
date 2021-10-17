@@ -5,7 +5,7 @@
 
 <h2>Brash Art Studio</h2>
 
-<p><a href="https://brash.netlify.app/" target="_blank">Main site</a> | <a href="https://brash.netlify.app/download.html" target="_blank">Downloads</a> | <a href="https://github.com/OttCS/BrashArtStudio">Github Repo</a></p>
+<p><a href="https://brash.netlify.app/" target="_blank">Main site</a> | <a href="https://brash.netlify.app/" target="_blank">Downloads</a> | <a href="https://github.com/OttCS/BrashArtStudio">Github Repo</a></p>
 
 <p>HTML and Javascript based art program, optimized for GPU acceleration. Soon to be an Electron.js app!</p>
 
