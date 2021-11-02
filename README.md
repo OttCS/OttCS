@@ -1,23 +1,30 @@
-<h1>Hello!</h1>
-<p>Welcome to my Github page! I'm a big fan of web design, game development, and digital art/photography. Fluent in HTML/CSS/Javascript, and improving my skills in Java and OpenGL</p>
+<h1>Cooper Ott</h1>
+<p>Web Design, Software and Game Development, Digital Art. Fluent in HTML/CSS/Javascript, and improving my skills in Java and OpenGL!</p>
 
 <!-- Next Section -->
 
+<h6>Sep 2021 - Present</h6>
 <h2>Brash Art Studio</h2>
-
-<p><a href="https://brash.netlify.app/" target="_blank">Main site</a> | <a href="https://brash.netlify.app/" target="_blank">Downloads</a> | <a href="https://github.com/OttCS/BrashArtStudio">Github Repo</a></p>
-
-<p>HTML and Javascript based art program, optimized for GPU acceleration. Soon to be an Electron.js app!</p>
+<p>Open source and accessible art software for every platform. Using Electron.js, Brash will allow any artist anywhere to create.</p>
+<a href='https://ottcs.netlify.app/brash.html'>Read More</a> | <a href='https://ottcs.github.io/BrashArtStudio/'>Live Demo</a>
+<br><br>
+<img src="https://ottcs.netlify.app/asset/brash/fast.webp" />
 
 <!-- Next Section -->
 
+<h6>Mar 2020 - Present</h6>
+<h2>HTML5 + Canvas</h2>
+<p>Pushing the limits of what websites can accomplish. Canvas allows for expressive <u>and</u> interactive media: exactly what the web is supposed to be.</p>
+<a href='https://ottcs.netlify.app/canvas.html'>Read More</a>
+
+<!--Next Section-->
+
+ <h6>Jan 2021</h6>
 <h2>GravityShade</h2>
-
-<p><a href="https://gravityshade.netlify.app" target="_blank">Main site</a> | <a href="https://gravityshade.netlify.app/downloads" target="_blank">Downloads</a> | <a href="https://github.com/OttCS/GravityShade">Github Repo</a></p>
-
-<p>Open GLSL shaderpack for Optifine or IRIS modded Minecraft, tuned to be as lightweight and efficient as possible to keep up with multiplayer servers.</p>
-
-<img src="https://gravityshade.netlify.app/media/day.png" />
+<p>An OpenGL shader built for Minecraft. Performance-focused with beautiful visuals.</p>
+<a href='https://ottcs.netlify.app/gravityshade.html'>Read More</a> | <a href='https://gravityshade.netlify.app/'>Check It Out</a>
+<br><br>
+<img src="https://ottcs.netlify.app/asset/gravityshade/fast.webp" />
 
 <!--Next Section-->
 
