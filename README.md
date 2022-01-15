@@ -10,6 +10,14 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/OttCS/GS-Gallery/main/poster.webp" />
 
+<!--Next Section-->
+
+<h2>IRIS Shaders Mod</h2>
+
+<p><a href="https://irisshaders.net/" target="_blank">Main site</a> | <a href="https://irisshaders.net/download.html" target="_blank">Downloads</a> | <a href="https://github.com/IrisShaders/Iris">Github Repo</a></p>
+
+<p>Not my Github repo, but one that I frequently visit. GravityShade *is* currently being developed for IRIS Shader performance, with Optifine compatibility as a secondary priority.</p>
+
 <!-- Next Section -->
 
 <h6>Sep 2021 - Present</h6>
@@ -18,11 +26,3 @@
 <a href='https://ottcs.netlify.app/brash.html'>Read More</a> | <a href='https://ottcs.github.io/BrashArtStudio/'>Live Demo</a>
 <br><br>
 <img src="https://ottcs.netlify.app/asset/brash/fast.webp" />
-
-<!--Next Section-->
-
-<h2>IRIS Shaders Mod</h2>
-
-<p><a href="https://irisshaders.net/" target="_blank">Main site</a> | <a href="https://irisshaders.net/download.html" target="_blank">Downloads</a> | <a href="https://github.com/IrisShaders/Iris">Github Repo</a></p>
-
-<p>Not my Github repo, but one that I frequently visit. GravityShade *is* currently being developed for IRIS Shader performance, with Optifine compatibility as a secondary priority.</p>
