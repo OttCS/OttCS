@@ -12,27 +12,12 @@
 
 <!-- Next Section -->
 
-<h6>Mar 2020 - Present</h6>
-<h2>HTML5 + Canvas</h2>
-<p>Pushing the limits of what websites can accomplish. Canvas allows for expressive <u>and</u> interactive media: exactly what the web is supposed to be.</p>
-<a href='https://ottcs.netlify.app/canvas.html'>Read More</a>
-
-<!--Next Section-->
-
- <h6>Jan 2021</h6>
+<h6>Jan 2021 - Present</h6>
 <h2>GravityShade</h2>
 <p>An OpenGL shader built for Minecraft. Performance-focused with beautiful visuals.</p>
 <a href='https://ottcs.netlify.app/gravityshade.html'>Read More</a> | <a href='https://gravityshade.netlify.app/'>Check It Out</a>
 <br><br>
-<img src="https://ottcs.netlify.app/asset/gravityshade/fast.webp" />
-
-<!--Next Section-->
-
-<h2>Optifine</h2>
-
-<p><a href="https://optifine.net/" target="_blank">Main site</a> | <a href="https://optifine.net/downloads" target="_blank">Downloads</a> | <a href="https://github.com/sp614x/optifine">Github Repo</a></p>
-
-<p>Not my Github repo, but one that I frequently visit. GravityShade *was* initially dependant on stable releases of Optifine, and should always stay compatible.</p>
+<img src="https://raw.githubusercontent.com/OttCS/GS-Gallery/main/poster.webp" />
 
 <!--Next Section-->
 
