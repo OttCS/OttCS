@@ -3,6 +3,13 @@
 
 <!-- Next Section -->
 
+<h6>April 2022 - Present</h6>
+<h2>ZephyrJS</h2>
+<p>An expansion on PixiJS with the intention pf making game development with PixiJS easier than using PhaserIO</p>
+<a href="https://github.com/OttCS/zephyrjs">Github Repo</a></p>
+
+<!--Next Section-->
+
 <h6>Jan 2021 - Present</h6>
 <h2>GravityShade</h2>
 <p>An OpenGL shader built for Minecraft. Performance-focused with beautiful visuals.</p>
@@ -17,12 +24,3 @@
 <p><a href="https://irisshaders.net/" target="_blank">Main site</a> | <a href="https://irisshaders.net/download.html" target="_blank">Downloads</a> | <a href="https://github.com/IrisShaders/Iris">Github Repo</a></p>
 
 <p>Not my Github repo, but one that I frequently visit. GravityShade *is* currently being developed for IRIS Shader performance, with Optifine compatibility as a secondary priority.</p>
-
-<!-- Next Section -->
-
-<h6>Sep 2021 - Present</h6>
-<h2>Brash Art Studio</h2>
-<p>Open source and accessible art software for every platform. Using Electron.js, Brash will allow any artist anywhere to create.</p>
-<a href='https://ottcs.netlify.app/brash.html'>Read More</a> | <a href='https://ottcs.github.io/BrashArtStudio/'>Live Demo</a>
-<br><br>
-<img src="https://ottcs.netlify.app/asset/brash/fast.webp" />
