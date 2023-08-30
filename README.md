@@ -4,4 +4,4 @@
 
 ### Informally:
 - TTRPG enjoyer, not an enjoyer of WotC (https://github.com/OttCS/SOLAS)
-- A/V Enthusiast
+- Audio enthusiast: Built a couple speakers, customized my audio drivers
