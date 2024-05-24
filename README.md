@@ -1,6 +1,8 @@
 # OttCS
 I have fun re-engineering the wheel, making and understanding "high performance" systems, and coding goofy ideas that come to me.
 
+![headshot](headshot.png)
+
 **My Pages** - [Random Writings](blog/README.md) - [Projects](projects/README.md)
 
 # Fun Facts
