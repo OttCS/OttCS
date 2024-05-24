@@ -3,4 +3,4 @@
 
 Some normal text
 
-![headshot](../headshot.png)
+![headshot](headshot.png)
