@@ -2,3 +2,5 @@
 **I'll write about things I find interesting!**
 
 Some normal text
+
+![headshot](headshot.png)
