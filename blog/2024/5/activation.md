@@ -1,7 +1,7 @@
 # What Linearly Separable Means
 **And why a lot of problems aren't**
 
-*By Cooper Ott - May 25, 2024*
+*By Cooper Ott - May 24, 2024*
 
 The point of neural networks are to figure out a "good enough" understanding of some data (pictures of numbers, etc) that it can accurately understand something similar that it hasn't seen before (a differently written 4).
 
