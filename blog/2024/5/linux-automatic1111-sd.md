@@ -1,6 +1,8 @@
 # A Proper Linux Install Guide
 **As good as Automatic1111 is, the instructions are lacking for Linux Desktops**
 
+*By Cooper Ott - May 25, 2024*
+
 This is just a small documentation of the steps I go through to install [Automatic1111's Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (specifically on Nobara Linux).
 
 *AI generated image of four penguins in the snow*
