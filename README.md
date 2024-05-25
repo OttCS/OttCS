@@ -1,7 +1,7 @@
 # OttCS
 [Random Writings](blog/README.md) - [Projects](projects/README.md)
 
-Why not reinvent the wheel from time to time? Let's make "high performance" software in-browser, and have fun making it.
+Why not reinvent the wheel from time to time? Let's make "high performance" software in-browser, and have fun doing it.
 
 # Fun Facts
 
