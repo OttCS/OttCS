@@ -12,7 +12,7 @@ This is just a small documentation of the steps I go through to install [Automat
 Stable Diffusion **requires** Python 3.10, and most distros have moved beyond this. Install whatever version of it comes with the distro, for Nobara/Fedora its the following:
 
 ```
-sudo dnf install python3.10
+sudo dnf install python3.10 && python3.10 -m ensurepip --upgrade
 ```
 
 For easy installation and updates? Just use the `git clone` method. For this, you'll need git. Most distros include it by default, but in case yours doesn't:
