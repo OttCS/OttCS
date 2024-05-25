@@ -48,10 +48,10 @@ And it's running!
 
 Well, it's going to start downloading the different models it uses as defaults. This could take a bit, so you may as well read the following section while you wait, it'll automatically start when it's done. BTW, it won't have to do this again and starts up pretty quick.
 
-After it's done though, try out the following prompt:
+After it's done though, try out the following prompt! It's sort of like a "Hello world!" of image generation
 
 ```
-astronaut riding a horse
+photograph of an astronaut riding a horse
 ```
 
 ## Performance
@@ -60,3 +60,5 @@ While the default settings are generally decent, there may be some small tweaks 
 **Older NVIDIA GPUs.** `--no-half` and `--upcast-sampling` typically should fix issues if the ouput images are just solid green or black.
 
 **Bad Performance?** `--xformers` and `--medvram` will **drastically** reduce the amount of vram you are using with equal or faster render time.
+
+If you want to always use your arguments without forgetting them, just create another shell file (I call mine `start.sh`) with the arguments that work best for you, such as `./webui.sh --xformers --medvram --no-half --upcast-sampling`. This way, you only have to run `./start.sh` and it's all set up the way you like it.
