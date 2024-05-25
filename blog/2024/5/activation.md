@@ -24,4 +24,4 @@ So is this it? We just have to chain more and more perceptrons together until we
 
 ![https://www.researchgate.net/figure/Commonly-used-activation-functions-a-Sigmoid-b-Tanh-c-ReLU-and-d-LReLU_fig3_335845675](/blog/2024/5/activation-funcs.png)
 
-There's pros and cons to each, but one thing is certain: since most of our problems being tackled by powerful neural networks can't be solved with lines that are straight, we need to start of with lines that aren't.
+There's pros and cons to each, but one thing is certain: since most of our problems being tackled by powerful neural networks can't be solved with lines that are straight, we need to start off with lines that aren't.
