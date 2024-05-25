@@ -3,7 +3,7 @@
 
 This is just a small documentation of the steps I go through to install [Automatic1111's Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (specifically on Nobara Linux).
 
-![](Pasted%20image%2020240525004257.png)
+![](/blog/2024/5/linux-automatic1111-sd.png)
 *AI generated image of four penguins in the snow*
 
 ## Dependencies
