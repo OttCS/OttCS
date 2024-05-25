@@ -1,6 +1,4 @@
 # Blog Home
-**I'll write about things I find interesting!**
+**I'll write about random stuff**
 
-Some normal text
-
-![headshot](/headshot.png)
+[What Linearly Separable Means (and why a lot of problems aren't)](blog/2024/5/activation.md)

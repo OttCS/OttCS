@@ -1,9 +1,9 @@
 # OttCS
-I have fun re-engineering the wheel, making and understanding "high performance" systems, and coding goofy ideas that come to me.
+[Random Writings](blog/README.md) - [Projects](projects/README.md)
 
-![headshot](headshot.png)
+Why not reinvent the wheel from time to time? Let's make "high performance" software in-browser, and have fun making it.
 
-**My Pages** - [Random Writings](blog/README.md) - [Projects](projects/README.md)
+**My Pages** - 
 
 # Fun Facts
 
