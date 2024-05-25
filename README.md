@@ -3,8 +3,6 @@
 
 Why not reinvent the wheel from time to time? Let's make "high performance" software in-browser, and have fun making it.
 
-**My Pages** - 
-
 # Fun Facts
 
 * Director and Programmer for [Zephyr Studios](https://zephyrstudios.pages.dev/)
