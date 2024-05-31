@@ -1,5 +1,5 @@
 # Blog Posts
-**I'll talk about random stuff**
+I'll write stuff down (ocassionally)
 
 ## Tutorial-ish
 - [Setting up Stable Diffusion Webui on Linux](/blog/2024/5/linux-automatic1111-sd.md)
