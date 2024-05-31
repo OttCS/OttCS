@@ -1,8 +1,8 @@
 # Projects
-**I'll try to keep track of what I'm working on**
+I'll keep track of what I'm working on, somewhat.
 
 ## "Software"
-**I write some code, sometimes**
+I write code sometimes!
 
 ### ZephyrJS
 **If it exists, there will be a JS library for it**
@@ -12,7 +12,7 @@ ZephyrJS is a Free and Open Source Software (FOSS) javascript library that bring
 [The Github Page](https://github.com/ZephyrStudio/ZephyrJS)
 
 ## Misc
-**It's not *necessarily* software...?**
+It's not *necessarily* software...?
 
 ### SOLAS
 **A Beginner-Friendly Tabletop Roleplaying System, Since July 2022**
