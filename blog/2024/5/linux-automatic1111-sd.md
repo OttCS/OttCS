@@ -3,7 +3,9 @@
 
 *By Cooper Ott - May 24, 2024*
 
-This is just a small documentation of the steps I go through to install [Automatic1111's Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (specifically on Nobara Linux).
+*Edited June 2, 2024 with AMD optimizations*
+
+This is just a small documentation of the steps I go through to install [Automatic1111's Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (specifically on Fedora/Nobara Linux).
 
 *AI generated image of four penguins in the snow*
 ![](/blog/2024/5/linux-automatic1111-sd.png)
