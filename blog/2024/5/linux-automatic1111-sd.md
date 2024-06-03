@@ -59,8 +59,10 @@ photograph of an astronaut riding a horse
 ## Performance
 While the default settings are generally decent, there may be some small tweaks to make to the start command, depending on your situation.
 
-**Older NVIDIA GPUs.** `--no-half` and `--upcast-sampling` typically should fix issues if the ouput images are just solid green or black.
+**General Optimization.** NVIDIA gpus should use `--xformers`, while AMD gpus should use `--opt-sub-quad-attention`. There's not a lot of reason to *not* use them.
 
-**Bad Performance?** `--xformers` and `--medvram` will **drastically** reduce the amount of vram you are using with equal or faster render time.
+**Older GPUs.** `--no-half` and `--upcast-sampling` typically should fix issues if the ouput images are just solid green or black.
+
+**Running out of VRAM.** `--medvram` applies some memory optimizations. May result in slightly slower render times.
 
 If you want to always use your arguments without forgetting them, just create another shell file (I call mine `start.sh`) with the arguments that work best for you, such as `./webui.sh --xformers --medvram --no-half --upcast-sampling`. This way, you only have to run `./start.sh` and it's all set up the way you like it.
