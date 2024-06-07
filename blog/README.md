@@ -3,6 +3,7 @@ I'll write stuff down (ocassionally)
 
 ## Tutorial-ish
 - [Setting up Stable Diffusion Webui on Linux](/blog/2024/5/linux-automatic1111-sd.md)
+- [Automatic1111 Stable Diffusion Tutorial](blog/2024/6/stable-diffusion-tutorial.md)
 
 ## Discussion
 - [What Made Minecraft Awesome - Why doesn't it still feel that way?](/blog/2024/5/minecraft-exploration.md)
