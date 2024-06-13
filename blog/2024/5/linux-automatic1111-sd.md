@@ -74,7 +74,8 @@ While the default settings are generally decent, there may be some small tweaks 
 If you want to always use your arguments without forgetting them, just add the arguments to the webui-user.sh file, as the COMMANDLINE_ARGS variable. I use the following:
 
 ```
---xformers --medvram --no-half --upcast-sampling
+# Commandline arguments for webui.py...
+export COMMANDLINE_ARGS="--xformers --medvram --no-half --upcast-sampling"
 ```
 
 This way, it's always set up the way you like it.
