@@ -71,7 +71,7 @@ While the default settings are generally decent, there may be some small tweaks 
 
 **Running out of VRAM.** `--medvram` applies some memory optimizations. May result in slightly slower render times.
 
-If you want to always use your arguments without forgetting them, just add the arguments to the webui-user.sh file, as the COMMANDLINE_ARGS variable. I use the following, such as:
+If you want to always use your arguments without forgetting them, just add the arguments to the webui-user.sh file, as the COMMANDLINE_ARGS variable. I use the following:
 
 ```
 --xformers --medvram --no-half --upcast-sampling
