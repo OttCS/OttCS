@@ -25,17 +25,17 @@ I've lead the ZephyrJS Project since April 2022, adding functional game engine f
 
 [Zephyr Studios](https://zephyrstudios.pages.dev/) - [ZephyrJS Project](https://github.com/ZephyrStudio/ZephyrJS)
 
-### Computer Science, B.S.
+## Computer Science, B.S.
 **James Madison University, Spring 2024 Graduation**     
 
 JMU focuses on problem solving in computer science, whether it's algorithms and data structures or software and application development. I've taken Software Engineering for SCRUM development experience, and application and web development for front and backend skills.
 
-### Computer Information Systems Minor
+## Computer Information Systems Minor
 **James Madison University, Spring 2024 Graduation** 
 
 My minor is where I learned the real-world application of computing in the context of business. JMU's College of Business focuses on logical problem-solving and communication abilities, while analyzing and designing information systems.
 
-### Game Jams
+## Game Jams
 **GMTK 2022/2023, PB & Game Jam 2020**   
 
 I regularly participate in game jams to improve my skills in time management and rapid prototyping. In all three jams, I did all of the art, music/sfx, and programming and placed in the top 50 percent.
