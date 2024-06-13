@@ -32,7 +32,7 @@ Clone the repository, using the url provided through the [official repo](https:/
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 ```
 
-The default `webui-user.sh` file assumes that the latest version of python will work, which it doesn't. Python environments are too much work, especially since there's a much easier option. Open and change line 16 from `#python_cmd="python3"` to the following, making sure to save.
+The default `webui-user.sh` file assumes that the latest version of python will work, which it (most likely) doesn't. Open and change line 16 from `#python_cmd="python3"` to the following, making sure to save.
 
 ```
 python_cmd="python3.10"
