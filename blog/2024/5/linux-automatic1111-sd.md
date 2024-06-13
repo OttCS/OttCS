@@ -19,7 +19,7 @@ Stable Diffusion **requires** Python 3.10, and most distros have moved beyond th
 sudo dnf install python3.10
 ```
 
-Additionally, some distros (specifically minimal Fedora) don't come with some required packages. Make sure you also have `pciutils`.
+Additionally, some distros (specifically minimal Fedora) don't come with some required packages. Make sure you also have `pciutils` and `gperftools` installed and `` if you have an AMD gpu.
 
 For easy installation and updates? Just use the `git clone` method. For this, you'll need git. Most distros include it by default, but in case yours doesn't:
 
