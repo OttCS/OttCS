@@ -71,4 +71,10 @@ While the default settings are generally decent, there may be some small tweaks 
 
 **Running out of VRAM.** `--medvram` applies some memory optimizations. May result in slightly slower render times.
 
-If you want to always use your arguments without forgetting them, just create another shell file (I call mine `start.sh`) with the arguments that work best for you, such as `./webui.sh --xformers --medvram --no-half --upcast-sampling`. This way, you only have to run `./start.sh` and it's all set up the way you like it.
+If you want to always use your arguments without forgetting them, just add the arguments to the webui-user.sh file, as the COMMANDLINE_ARGS variable. I use the following, such as:
+
+```
+--xformers --medvram --no-half --upcast-sampling
+```
+
+This way, it's always set up the way you like it.
