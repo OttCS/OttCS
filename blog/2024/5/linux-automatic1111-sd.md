@@ -4,7 +4,8 @@
 *By Cooper Ott - May 24, 2024*
 
 *Edited June 2, 2024 with AMD optimizations*
-*Editef June 13, 2024 with additional dependencies*
+
+*Edited June 13, 2024 with additional dependencies*
 
 This is just a small documentation of the steps I go through to install [Automatic1111's Stable Diffusion Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (specifically on Fedora/Nobara Linux).
 
