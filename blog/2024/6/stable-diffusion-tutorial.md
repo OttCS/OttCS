@@ -7,6 +7,10 @@
 
 There's a TON of options to get images to come out of stable diffusion. Unfortunately, there's not a ton of guidance, outside of random articles that just show an image grid with "steps" above/beside/below. So I'm here to help!
 
+![sd-penguins](/blog/2024/6/sd-penguins.png)
+
+*An image of penguins in the snow, generated with Stable Diffusion*
+
 ## Workflow
 It's best to have an idea for what you're comfortable doing in the WebUI. Personally, I do the following:
 
