@@ -7,4 +7,4 @@
 
 I've moved the post to its own repository, so I can more easily add information about different Fedora-based distributions. Here's the link to it: https://github.com/OttCS/automatic1111-webui-fedora
 
-If you'd like to check out my *other* Stable Diffusion post (about how to be more effective when creating images), you can check that out [here](blog/2024/6/stable-diffusion-tutorial.md)!
+If you'd like to check out my *other* Stable Diffusion post (about how to be more effective when creating images), you can check that out [here](/blog/2024/6/stable-diffusion-tutorial.md)!
