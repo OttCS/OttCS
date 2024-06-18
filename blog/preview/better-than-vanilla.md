@@ -15,7 +15,7 @@ Destroy the classic memories we have of the game, where mining at night was risk
 Minecraft is not an idle game that should be tried to be optimized away. Even repairing weapons still lets you automate the process of enchanting by removing it. If a player wants to interact with an aspect of the game, they should actually interact with it.
 
 ## Gear Progression
-Different types of armor should provide different types of protection (similar to enchants now). This means that just going full diamond/netherite isn't the best in some scenarios, and chain, leather, and gold armor can serve a purpose. Better than adventure hit this one on the head.
+Different types of armor should provide different types of protection (similar to Protection variants now). This means that just going full diamond/netherite isn't the best in some scenarios, and chain, leather, and gold armor can serve a purpose. Better than adventure hit this one on the head. I also propose that **copper** should be given an actual purpose as gear, and iron should be made rarer to compensate.
 
 ## Villagers
 Villagers are a huge bandage for other problems. Tons of free food and iron (golem farm) were made necessary due to the introduction of hunger and the increasing number of recipes that need iron. The implementation of villages also helps with the totally nomadic direction the game is going, where you will always be able to find shelter and be able to respawn close to where you die. Enchanting was "tedious and random" and has been all but scrapped for enchanted books sold in villages.
@@ -28,4 +28,5 @@ While the warped and crimson forests bring some really interesting new locations
 
 The rest of the nether is great at being hellish: lots of exposed area with ranged enemies lurking, a place that lets you gain extremely valuable items but with a huge detriment.
 
-
+## Enchantments
+Some argue that enchantments break a lot of the game, and that is true. However, I don't believe than enchantments should be removed. Enchants should be cool, unique rewards you get from exploring, exclusively in the form of enchanted books. Enchants cannot be combined in this form: An enchantment table uses lapis as fuel, and moves an enchantment from a book to a tool.
