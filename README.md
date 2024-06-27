@@ -5,6 +5,11 @@ Why not reinvent the wheel from time to time? Let's make "high performance" soft
 
 ## What I do
 
-- Director and Programmer for [Zephyr Studios](https://zephyrstudios.pages.dev/) - Project lead for [ZephyrJS](https://github.com/ZephyrStudio/ZephyrJS/)
- 
-- TTRPG enjoyer - Creator/maintainer of the beginner-friendly [SOLAS](https://github.com/OttCS/SOLAS) system
+- Director and Programmer for [Zephyr Studios](https://zephyrstudios.pages.dev/)
+  - Project lead for [ZephyrJS](https://github.com/ZephyrStudio/ZephyrJS/)
+
+- TTRPG enjoyer
+  - Creator/maintainer of the beginner-friendly [SOLAS](https://github.com/OttCS/SOLAS) system
+  - I also fixed up new character creation in DnD, called [Portable DnD](https://github.com/OttCS/Portable-DnD)
+
+- I have a cool camera! Check out [my photography site](https://ottsaadah.pages.dev/)
