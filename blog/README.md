@@ -1,6 +1,9 @@
 # Blog Posts
 I'll write stuff down (occasionally)
 
+## I Make Things!
+- [SOLAS - The Simply Organized, Lightweight Adventure System](blog/2024/8/solas.md)
+
 ## How to Do Things
 - [Setting up Stable Diffusion Webui on Linux](/blog/2024/5/linux-automatic1111-sd.md)
 - [Automatic1111 Stable Diffusion Tutorial](blog/2024/6/stable-diffusion-tutorial.md)
